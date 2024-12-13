@@ -1,0 +1,4 @@
+I want to make a happy smiley face that can be changed randomly. So I first drew a happy emoji, with the click of the mouse, the eyes and mouth on the smiley face and the size of the face will change.
+Some coordinates and values are difficult to understand at first. Through this exercise, I have mastered and understood the use of mouseX and mouseY. I saw the example of our assignment where color transitions can be made randomly and smoothly, and I was very curious about the principle.
+
+//Jiahui Jing

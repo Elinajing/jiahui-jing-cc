@@ -1,0 +1,29 @@
+Jiahui Jing
+
+
+1. Description of the Data Portrait:
+
+For this data-self portrait, I tracked my daily food intake over a week, focusing on five key categories: Vegetables, Protein, Carbohydrates (Carbs), Snacks, and Water. The idea was to visualize my eating habits by representing each food category as a node, dynamically expanding from the center outward. The portrait shows how much I consumed each type of food every day, with different days cycling through the animation from Monday to Sunday.
+
+2. Instructions for Viewers:
+
+Each colored point represents a food category (Vegetables, Protein, Carbs, Snacks, and Water) for a given day of the week.
+The position of the point represents the quantity consumed. The further from the center, the more of that food type I consumed on that day.
+
+3. Design Process:
+
+
+I tracked my daily food intake over seven days, categorizing the food I ate into the five main types mentioned above. Each day, I assigned a number to indicate the quantity of each food category I consumed (on a scale from 0 to 3, where 3 represents a higher intake and 0 represents no intake). 
+Then I sketched out an idea where food categories are positioned in a circular layout, with points expanding outward based on intake.The design also includes subtle spider web-like lines to improve clarity in comparing intake levels.
+
+4. Reflection on the Assignment:
+
+- What did you learn about yourself through the process of self-tracking?
+
+Through this tracking process, I realized how much my eating habits fluctuate day to day. For example, I noticed that my vegetable and protein intake is consistent, and water intake varied more than I expected.
+
+- What was gained/lost through the process of data visualization?
+
+Gained: Visualizing my eating habits allowed me to clearly see patterns that would have been harder to notice in a simple list of numbers. The circular layout helped me easily compare the relative intake of each food type, and the animated dynamic made it more engaging. 
+
+Lost: One thing that’s lost in the data visualization is the emotional or subjective experience of eating. While the portrait provides a clear, objective view of my eating habits, it doesn’t capture how I felt on those days or how different foods affected my mood or energy levels.

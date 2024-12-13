@@ -1,0 +1,13 @@
+Name_Jiahui Jing
+
+Project Description:
+My project is an animated optical illusion featuring rotating lines arranged in a radial pattern. The illusion responds to mouse movements—moving the mouse left or right changes the rotation speed, while moving it up or down alters the size of the pattern. The use of alternating colors and animation creates a sense of depth and motion, making the illusion dynamic and engaging.
+
+Research: I explored different optical illusions that manipulate motion and depth, focusing on radial patterns. I also looked at how interactive digital art uses user input to enhance visual experiences.
+
+Design: I used for loops to create a symmetrical radial pattern, adding interactivity to control speed and size based on the mouse position. The alternating colors and rotation make the illusion more visually interesting.
+
+Fine-tuning: I adjusted the number of lines, the rotation speed, and the size of the circles to balance the effect, ensuring it was engaging without being overwhelming.
+
+Potential Deployment:
+This optical illusion can be implemented as a dynamic wallpaper. Users can interact with the screen by touching it to control the rotation speed and size of the pattern, creating personalized visual effects. This interaction enhances user experience, making the wallpaper more engaging and unique, ideal for users who enjoy dynamic and visually captivating designs on their devices.

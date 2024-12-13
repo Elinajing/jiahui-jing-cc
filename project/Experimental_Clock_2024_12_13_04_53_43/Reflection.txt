@@ -1,0 +1,17 @@
+1.Write a description for your experimental clock. How is it novel to you and how might it alter the way you track / keep time? 
+
+  In developing this experimental clock, I aimed to explore time as an emotional experience, rather than a rigid sequence of seconds and minutes. The clock combines visual elements with interaction, making the passage of time not only measurable but also perceptible through changing hues, pulse effects, and transparency. This approach introduces a subjective component to time, reflecting how time can feel slow or fast depending on our emotional state.
+  The circular elements in the clock are designed to pulse based on a sine wave, creating a rhythmic motion that mimics the passage of time but in a way that feels more organic and alive. This pulse, driven by `millis()`, constantly fluctuates, symbolizing how time ebbs and flows in ways that are not always consistent or linear.
+  I incorporated emotion into the clock by mapping the `mouseX` position to the variable `emotionLevel`. This interactivity allows the user to manipulate the clock, controlling its visual intensity. Depending on the level of "emotion," additional circles appear, further emphasizing the fluid nature of time. The background color also adjusts dynamically, providing a subtle but powerful representation of time’s emotional landscape.
+
+2.Describe your design process. Include all three of your design sketches and explain how you’ve ended up choosing one. 
+
+  In the initial stages, I had three design sketches:
+Sketch 1: This design focused on the idea of concentric circles, with each circle representing seconds, minutes, and hours, expanding and contracting as time passed.
+Sketch 2: I experimented with waveforms where each wave would fluctuate in height based on the time of day, creating a visual “tide” that symbolized the ebb and flow of time throughout the day.
+Sketch 3: This sketch introduced the concept of emotional engagement. It involved dynamic circular elements that responded to user interaction, where time would be represented more abstractly through color and motion.
+  Ultimately, I chose the third design because it felt the most engaging and aligned with my goal of representing time as a personal, emotional experience.
+  
+3.What’s your overall reflection on this assignment? What have you learned throughout the process of designing an unconventional clock?
+
+  This assignment has been a profound exploration of how time can be represented beyond numbers and linear systems. Designing an unconventional clock pushed me to think outside the box, not just in terms of visuals but also in how we engage with time as a concept.
