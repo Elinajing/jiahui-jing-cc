@@ -266,8 +266,6 @@ img {
 .project .l iframe {
   display: block; 
   margin: 0 auto; 
-  width: 120%; 
-  height: 120vh; 
   border: none; 
   position: relative; 
   transform: translate(10%, 10%); 
