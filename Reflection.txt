@@ -1,0 +1,22 @@
+Name: Jiahui Jing / Elina
+
+
+Game Concept
+
+Maze of Life is a metaphorical puzzle game that represents three key stages of life: Babyhood, Youth, and Adulthood. Each stage features a unique maze with challenges that reflect the characteristics and struggles of that life phase. The game’s design communicates the journey of life, emphasizing growth, challenges, and eventual achievements.
+
+
+Storyboards
+
+Level 1: Babyhood
+A baby moves through a simple maze. The path is clear, with no threats or obstacles.
+
+Level 2: Youth
+A school-age character navigates a maze while avoiding patrolling “teachers.” The exit is partially blocked, requiring strategic planning and movement to escape.
+
+Level 3: Adulthood
+The adult character collects coins scattered across the maze while avoiding dynamic walls. Once all coins are collected, the exit unlocks. The walls’ movements require players to stay alert and adapt.
+
+Reflection
+
+During the development of this game, I faced several challenges. Creating dynamic walls in adulthood was particularly tricky, as they needed to move unpredictably without breaking the maze. Striking a balance between randomness and playability was difficult, as overly chaotic movements could disrupt the player’s sense of control, while predictable patterns would fail to convey the intended metaphor. Ensuring a natural difficulty progression was also challenging, as each stage introduced new mechanics like patrolling teachers or collectibles. 
